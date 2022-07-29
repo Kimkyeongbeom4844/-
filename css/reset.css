@@ -1,0 +1,7 @@
+* {margin: 0; padding: 0; box-sizing: border-box; font-size: 15px; z-index: 0;}
+ul, li {list-style: none; padding-left: 0 !important;}
+img {max-width: 100%; height: auto;}
+figcaption {font-size: 1rem; font-weight: 700; padding-top: .7rem;}
+.buttonDefault { border : 1px solid #be5643; background-color: #e16259; box-shadow: 0 1px 2px rgb(15 15 15 / 10%); color: #fff; padding: 0.3rem 0.5rem; border-radius: 8px;}
+.buttonDefault_2 {border: 1px solid rgba(0,0,0,.1); background-color: inherit; padding: .5rem 1.1rem; border-radius: 8px;}
+.longBtn {padding: 0.5rem 2rem;}
